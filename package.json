@@ -1,6 +1,6 @@
 {
-  "name": "redux-persist-transform-encrypt",
-  "version": "2.0.1",
+  "name": "@connected-home/redux-persist-transform-encrypt",
+  "version": "3.0.0",
   "description": "Encrypt your Redux store.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxdeviant/redux-persist-transform-encrypt.git"
+    "url": "git+https://github.com/ConnectedHomes/redux-persist-transform-encrypt.git"
   },
   "keywords": [
     "redux",
@@ -19,12 +19,12 @@
     "redux-persist-transform",
     "encryption"
   ],
-  "author": "Marshall Bowers <elliott.codes@gmail.com>",
+  "author": "ConnectedHomes <peter@hivehome.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxdeviant/redux-persist-transform-encrypt/issues"
+    "url": "https://github.com/ConnectedHomes/redux-persist-transform-encrypt/issues"
   },
-  "homepage": "https://github.com/maxdeviant/redux-persist-transform-encrypt#readme",
+  "homepage": "https://github.com/ConnectedHomes/redux-persist-transform-encrypt#readme",
   "files": [
     "lib/",
     "async.js"
