@@ -1,4 +1,4 @@
-import { createTransform } from 'redux-persist'
+import { createTransform } from '@connected-home/redux-persist'
 import CryptoJSCore from 'crypto-js/core'
 import { makeEncryptor, makeDecryptor } from './helpers'
 import AsyncCryptor from './AsyncCryptor'
