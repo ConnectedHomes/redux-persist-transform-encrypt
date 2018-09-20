@@ -27,6 +27,6 @@ export const makeDecryptor = (transform, onError) => (state, key) => {
     return transform(state)
   } catch (err) {
     handleError(onError, err)
-    return null
+    throw err;
   }
 }
